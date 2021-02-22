@@ -6,3 +6,7 @@ Van Vo {vtv253@utexas.edu}
 Van Vo {junior}
 Van Vo My interests include {Robotics, Embedded Systems, Computer Vision}
 Van Vo I am committed to me and my team members learning Python
+Seungbeom Ha {tmdqja75@gmail.com}
+Seungbeom Ha {Senior}
+Seungbeom Ha My interestes include {Robotics, Computer Vision, Machine Learning}
+Seungbeom Ha I am committed to me and my team members learning Python
